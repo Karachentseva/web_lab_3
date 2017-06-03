@@ -1,0 +1,22 @@
+﻿  oop_lab_1.cpp
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(34): warning C4129: 'h': unrecognized character escape sequence
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(38): warning C4129: 'h': unrecognized character escape sequence
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(42): warning C4129: 'h': unrecognized character escape sequence
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(46): warning C4129: 'h': unrecognized character escape sequence
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(50): warning C4129: 'h': unrecognized character escape sequence
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\server\oop_lab_1__\oop_lab_1\oop_lab_1.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  oop_lab_1.vcxproj -> C:\Server\oop_lab_1__\Debug\oop_lab_1.exe
+  oop_lab_1.vcxproj -> C:\Server\oop_lab_1__\Debug\oop_lab_1.pdb (Full PDB)
